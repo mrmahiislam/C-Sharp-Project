@@ -88,52 +88,69 @@ SQL QUERIES:
 
 1.	This is for Admin sign in 
 
- ![image](https://github.com/user-attachments/assets/f0f7e35e-23d2-4853-96d0-e93f570c24e5)
+![SignUp](https://github.com/user-attachments/assets/9ba4300b-459d-408b-8210-5e566a936274)
+
 
 
 2.	This is for Seller sign in
 
- ![image](https://github.com/user-attachments/assets/c1faba23-921d-4371-88e5-0949ccde6afd)
+![Seller](https://github.com/user-attachments/assets/88010402-9df5-4eb1-9afe-244e119b1d3d)
+
 
 
 3.	This is for Customer sign in
 
- ![image](https://github.com/user-attachments/assets/e91e29f6-f491-48b5-bb76-8ed0860a649b)
+
+![Customer](https://github.com/user-attachments/assets/175246c5-534d-41fb-b8e7-d01f80216c4e)
+
 
 
 4.	This is for Customers Homepage view
 
- ![image](https://github.com/user-attachments/assets/8980f0be-863c-4ebe-98df-ae57283bcfb6)
+
+![Homepage](https://github.com/user-attachments/assets/42c9af7e-610b-48de-8fd6-cf5717b729d2)
 
 
 5.	This is for Sellers Homepage Data view
 
-![image](https://github.com/user-attachments/assets/7510afd6-825e-4071-93cf-7cfe417e4731)
+
+![ProductList](https://github.com/user-attachments/assets/dd7cb3fa-782a-401a-a072-27d9cde2f822)
 
  
+
 6.	This is for Admin page Products table
 
- ![image](https://github.com/user-attachments/assets/c0655c73-cfc3-4d09-938b-4cd0cc1a6733)
+
+![PRODUCTS](https://github.com/user-attachments/assets/633fd65e-83d2-4214-81cf-1ad4008cc8d0)
+
 
 
 7.	This is for Admin page Information’s table
 
- ![image](https://github.com/user-attachments/assets/96c47ec4-cffe-4e4f-95dd-752147d84656)
+
+![INFO](https://github.com/user-attachments/assets/23945fca-b698-45b4-a6a5-44227bcc803e)
+
 
 
 8.	This is for Admin page CMS table
 
-![image](https://github.com/user-attachments/assets/787988fd-d53e-4a75-a191-c7da80c3032c)
+
+![CMS](https://github.com/user-attachments/assets/d844ba0b-296d-4bd0-8cfa-6c9204e86444)
+
  
 
 9.	This is for Admin page Brands table
 
- ![image](https://github.com/user-attachments/assets/5c053855-b3d4-4558-bf56-d6e55f0ae518)
+
+![Brand](https://github.com/user-attachments/assets/f3923abe-22ff-40d6-a3d4-3ea9f700e8df)
+
 
 
 10.	 This is for Admin page Category table
 
- ![image](https://github.com/user-attachments/assets/0b0d0613-db14-4ece-a5cf-73b78d6a72c2)
+
+![Category](https://github.com/user-attachments/assets/cf50fef7-9608-48a8-9078-41d30cc5fe47)
+
 
 
 PROJECT SCREENSHOTS:
