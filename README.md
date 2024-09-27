@@ -655,11 +655,6 @@ PROJECT SCREENSHOTS:
 PROJECT UPLOAD LINK🔗:
 
 
-Google Drive Link: 
-
-https://drive.google.com/drive/u/3/folders/1FlNVgyK6N6VBBoiiCsnLhfGaFXqkPzZx
- 
-
 GitHub Link:
 
 https://github.com/mrmahiislam/C-Sharp-Project.git
